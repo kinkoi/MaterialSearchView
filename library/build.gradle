@@ -35,10 +35,10 @@ dependencies {
 }
 
 publish {
-    userOrg = 'miguelcatalan'
-    groupId = 'com.miguelcatalan'
+    userOrg = 'kinkoi'
+    groupId = 'com.github.kinkoi'
     artifactId = 'materialsearchview'
     publishVersion = '1.4.0'
     desc = 'Cute library to implement SearchView in a Material Design Approach'
-    website = 'https://github.com/MiguelCatalan/MaterialSearchView'
+    website = 'https://github.com/kinkoi/MaterialSearchView'
 }
